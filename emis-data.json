@@ -2742,14 +2742,14 @@
     }
   ],
   "si": {
-    "governorate": "",
-    "district": "",
-    "schoolName": ""
+    "governorate": "الجيزة",
+    "district": "العمرانية التعليمية",
+    "schoolName": "الشهيد محمد سليمان سلامة ع"
   },
   "sg": {
-    "hrOfficer": "",
-    "principal": ""
+    "hrOfficer": "زوبة راتب",
+    "principal": "مصطفى"
   },
-  "ts": 1775342131876,
+  "ts": 1775342230135,
   "version": "v7"
 }
